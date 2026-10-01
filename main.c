@@ -9,7 +9,7 @@ int main()
     int anos;
     int MAIORIDADE;
 
-    printf("Olá! Qual o seu nome?!\n");
+    printf("Eduardo GAYZAO!\n");
     scanf ("%s, nome");
     printf("Nome: %s\n", nome);
 
